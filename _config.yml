@@ -11,7 +11,7 @@ title                    : "Hanwei ZHANG / Ph.D"
 title_separator          : "-"
 name                     : &name "Hanwei ZHANG"
 description              : &description "personal description"
-url                      : https://badchild0912.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://badchild0912.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "badchild0912/badchild0912.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -85,8 +85,8 @@ author:
   bio              : "Le vent se lève, il faut tenter de vivre..."
   location         : "Rennes, France"
   employer         :
-  pubmed           : "https://scholar.google.com/citations?hl=en&user=7QjjN2wAAAAJ"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=7QjjN2wAAAAJ" #"http://yourfullgooglescholarurl.com"
   email            : "hanwei.zhang@irisa.fr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/badchild0912"
+  github           : "badchild0912"
   google_plus      :
   keybase          :
   instagram        :
