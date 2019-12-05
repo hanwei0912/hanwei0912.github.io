@@ -17,7 +17,9 @@ Before coming to IRISA, I worked on Multi-objective Evolutionary Computation wit
 
 Publications
 ===============
-
+* "[Walking on the Edge: Fast, Low-Distortion Adversarial Examples](https://arxiv.org/abs/1912.02153)"
+__H Zhang__, Y Avrithis, T Furon, L Amsaleg
+arXiv preprint arXiv:1912.02153, 2019.
 * "[Smooth Adversarial Examples](https://arxiv.org/abs/1903.11862)"
 __H Zhang__, Y Avrithis, T Furon, L Amsaleg
 arXiv preprint arXiv:1903.11862, 2019.
