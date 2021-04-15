@@ -19,10 +19,10 @@ Publications
 ===============
 * "[Walking on the Edge: Fast, Low-Distortion Adversarial Examples](https://arxiv.org/abs/1912.02153)"
 __H Zhang__, Y Avrithis, T Furon, L Amsaleg
-arXiv preprint arXiv:1912.02153, 2019.
+IEEE Transactions on Information Forensics and Security 16, 701-713.
 * "[Smooth Adversarial Examples](https://arxiv.org/abs/1903.11862)"
 __H Zhang__, Y Avrithis, T Furon, L Amsaleg
-arXiv preprint arXiv:1903.11862, 2019.
+EURASIP Journal on Information Security 2020 (1), 1-12.
 * "[Tree-Structured Decomposition and Adaptation in MOEA/D](https://link.springer.com/chapter/10.1007/978-3-319-99253-2_29)"
 __H Zhang__, A Zhou
 International Conference on Parallel Problem Solving from Nature, 359-371, 2018.
