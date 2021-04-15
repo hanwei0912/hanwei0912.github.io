@@ -18,16 +18,16 @@ Before coming to IRISA, I worked on Multi-objective Evolutionary Computation wit
 Publications
 ===============
 * "[Walking on the Edge: Fast, Low-Distortion Adversarial Examples](https://arxiv.org/abs/1912.02153)"
-__H Zhang__, Y Avrithis, T Furon, L Amsaleg
+__H Zhang__, Y Avrithis, T Furon, L Amsaleg,
 IEEE Transactions on Information Forensics and Security 16, 701-713.
 * "[Smooth Adversarial Examples](https://arxiv.org/abs/1903.11862)"
-__H Zhang__, Y Avrithis, T Furon, L Amsaleg
+__H Zhang__, Y Avrithis, T Furon, L Amsaleg,
 EURASIP Journal on Information Security 2020 (1), 1-12.
 * "[Tree-Structured Decomposition and Adaptation in MOEA/D](https://link.springer.com/chapter/10.1007/978-3-319-99253-2_29)"
-__H Zhang__, A Zhou
+__H Zhang__, A Zhou,
 International Conference on Parallel Problem Solving from Nature, 359-371, 2018.
 * "[Accelerating MOEA/D by Nelder-Mead method](https://ieeexplore.ieee.org/document/7969414/)"
-__H Zhang__, A Zhou, G Zhang, HK Singh
+__H Zhang__, A Zhou, G Zhang, HK Singh,
 2017 IEEE Congress on Evolutionary Computation (CEC), 976-983, 2017.
 
 
