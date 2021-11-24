@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hanwei ZHANG / Ph.D"
+title                    : "Hanwei ZHANG"
 title_separator          : "-"
 name                     : &name "Hanwei ZHANG"
 description              : &description "personal description"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=7QjjN2wAAAAJ" #"http://yourfullgooglescholarurl.com"
-  email            : "hanwei.zhang@irisa.fr"
+  email            : "hanwei.zhang@.fr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
