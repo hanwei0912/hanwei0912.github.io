@@ -83,11 +83,11 @@ author:
   name             : "Hanwei ZHANG"
   avatar           : "profile.jpg"
   bio              : "Le vent se lève, il faut tenter de vivre..."
-  location         : "Rennes, France"
+  location         : 
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=7QjjN2wAAAAJ" #"http://yourfullgooglescholarurl.com"
-  email            : "hanwei.zhang@lis-lab.fr"
+  email            : "zhang@depend.uni-saarland.de"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
