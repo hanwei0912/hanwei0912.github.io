@@ -10,7 +10,9 @@ redirect_from:
 
 Hi! Welcome to my homepage.
 
-I am a Post-doc on [QARMA](https://qarma.lis-lab.fr/) team of LIS Marseille, working on Interpretability of Deep Neural Network with [Ronan Sicre](https://pageperso.lis-lab.fr/~ronan.sicre/wordpress/), [Stephane Ayache](https://stephane-ayache.pedaweb.univ-amu.fr/wordpress/) and [Yannis Avrithis](https://avrithis.net/). 
+I am a Postdoc researcher working with [Prof.Holger Hermanns](https://depend.cs.uni-saarland.de/~hermanns/) and [Prof. Lijun Zhang](https://tis.ios.ac.cn/?page_id=148) since November 2023. Currently, I am working on the project of [Explainable Intelligent Systems](https://explainable-intelligent.systems/), as well as a project about the adversarial attack against 3D object detection in autonomous driving.
+
+From July 2021 to July 2023, I served as a Post-doctoral researcher on [QARMA](https://qarma.lis-lab.fr/) team of LIS Marseille, working on Interpretability of Deep Neural Network with [Ronan Sicre](https://pageperso.lis-lab.fr/~ronan.sicre/wordpress/), [Stephane Ayache](https://stephane-ayache.pedaweb.univ-amu.fr/wordpress/) and [Yannis Avrithis](https://avrithis.net/). 
 
 I defensed my Ph.D thesis "Deep Learning in Adversarial Context" on June 17 2021. My Ph.D was supervised by [Laurent Amsaleg](http://people.rennes.inria.fr/Laurent.Amsaleg/), [Yannis Avrithis](https://avrithis.net/) and [Teddy Furon](http://people.rennes.inria.fr/Teddy.Furon/website/Welcome.html) in the [Linkmedia](https://www-linkmedia.irisa.fr/) team at [IRISA](https://www.irisa.fr/) Rennes. 
 My diploma is from PRogram Of Sino-French Education for Research ([PROSFER](http://www.ens-rennes.fr/prosfer/programme-prosfer-east-china-normal-university-276624.kjsp)) between [East China Normal University](https://www.ecnu.edu.cn/) and [École normale supérieure de Rennes](http://www.ens-rennes.fr/). 
@@ -20,6 +22,12 @@ Before coming to IRISA, I worked on Multi-objective Evolutionary Computation wit
 
 Publications
 ===============
+* "[Revisiting Transferable Adversarial Image Examples: Attack Categorization, Evaluation Guidelines, and New Insights](https://arxiv.org/abs/2310.11850)"
+Z Zhao, __H Zhang__, R Li, R Sicre, L Amsaleg, M Backes, Q Li, C Shen,
+arXiv preprint arXiv:2310.11850, 2023.
+* "[Opti-CAM: Optimizing saliency maps for interpretability](https://arxiv.org/pdf/2301.07002.pdf)"
+__H Zhang__, F Torres, R Sicre, Y Avrithis, S Ayache,
+arXiv preprint arXiv:2301.07002, 2023.
 * "[Patch Replacement: A Transformation-based Method to Improve Robustness against Adversarial Attacks](https://hal.archives-ouvertes.fr/hal-03363999/file/workshop.pdf)"
 __H Zhang__, Y Avrithis, T Furon, L Amsaleg,
 Proceedings of the 1st International Workshop on Trustworthy AI for Multimedia Computing, 9-17, 2021.
