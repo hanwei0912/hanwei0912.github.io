@@ -1,0 +1,13 @@
+---
+title: "Adversarial Robustness in Autonomous Driving"
+collection: teaching
+type: "Summer School"
+permalink: /teaching/2023-summer-school
+venue: "Southwest University"
+date: 2023-09-23
+location: "Chonqing, China"
+---
+
+Open Course on [Trusted Intelligent Algorithms in Intelligent Vehicles: Planning and Control](https://mp.weixin.qq.com/s?__biz=MzkzOTM3MjQ5NQ==&mid=2247483958&idx=1&sn=5262b7ee1ce3163ba333d7ec5fc650a2&chksm=c2f0b896f587318021d5cab8852ccd832efcee923ac28012c5318922d034a18aed41c388b67b&mpshare=1&scene=1&srcid=0603dF0BtvqsHOHQimEKs08p&sharer_shareinfo=be7e1121edc1dbc20602afb0de04fa03&sharer_shareinfo_first=be7e1121edc1dbc20602afb0de04fa03&exportkey=n_ChQIAhIQC1y%2B%2BzzNi2HKyImQESzkrRKfAgIE97dBBAEAAAAAAFoaMSBBB9oAAAAOpnltbLcz9gKNyK89dVj0dzx6aRaj45L1t62T1yym0cid2BxM41RUzmIX%2Foj9ekwEASvpCMVkvv6dS6x%2Fwx1uXbWamNUbgbW3FDDnPsIMoleKhUuJg8nLlNmSu4wG3KiIc8SNMa5hBNgsxq7bZlfnXBsqGUJNAobPYEpr8ABBE%2FUsVktmGv0uh67lV6wkGMEfP8oXrHY8fg3Iw%2BAEcL0SxqdG1vAjCCyESD%2BNZRjKiFPinCc7Bxsbs7IIEfi9NJjDS8dVuGePVdPM9l4W7MIc2eDV6cXFQ1IVlleVYaCKVgpltkRISa%2FO%2BtKOEpC7MwI7ciAKEHOPIuzeLKaSJxN4bhjGAY7BPVia&acctmode=0&pass_ticket=fpfMp%2BJb3DgLXdarDwVz3Exal4EYT9%2FCtX16ejVq75QnSoGwyHpXHvLH7t5BGm84&wx_header=0#rd).
+
+
