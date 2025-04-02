@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Brief CV"
+title: "Hanwei Zhang: A Brief CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,43 +9,24 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in Computer Science, [East China Normal University](https://www.ecnu.edu.cn/), 2011-2015.
-* M.S. in Computer Science, under [ENS-ECNU PRoSFER Program](http://www.ens-rennes.fr/prosfer/programme-prosfer-east-china-normal-university-276624.kjsp), [East China Normal University](https://www.ecnu.edu.cn/), 2015-2017.
-* Ph.D in "Adversarial Context in Deep Learning", under supervision of [Laurent Amsaleg](http://people.rennes.inria.fr/Laurent.Amsaleg/), [Yannis Avrithis](https://avrithis.net/) and [Teddy Furon](http://people.rennes.inria.fr/Teddy.Furon/website/Welcome.html) , [École Normale Supérieure de Rennes](http://www.ens-rennes.fr/), 2017-2021.
-
 Work experience
 ======
+* Nov. 2023 - Now: Postdoctoral Research
+  * [Saarland University](https://saarland-informatics-campus.de/en/), [Institute of Intelligent Software](http://www.gziis.org.cn/)
+  * Topic: Trustworthy AI
+  * Supervisors: [Holger Hermanns](https://depend.cs.uni-saarland.de/~hermanns/), [Lijun Zhang](https://tis.ios.ac.cn/people/lijun-zhang/)
 * Jul. 2021 - Jul. 2023: Postdoctoral Research
   * [École Centrale de Marseille](https://www.centrale-marseille.fr/), [Aix-Marseille University](https://www.univ-amu.fr/en), [LIS](https://www.lis-lab.fr/)-[QARMA](https://qarma.lis-lab.fr/)
   * Topic: Interpretability of Deep Learning
   * Supervisors: [Ronan Sicre](https://pageperso.lis-lab.fr/~ronan.sicre/wordpress/), [Yannis Avrthis](https://avrithis.net/), [Stephane Ayache](https://stephane-ayache.pedaweb.univ-amu.fr/wordpress/)
 
-* Nov. 2023 - Now: Postdoctoral Research
-  * [Saarland University](https://saarland-informatics-campus.de/en/), [Institute of Intelligent Software](http://www.gziis.org.cn/)
-  * Topic: Trustworthy AI
-  * Supervisors: [Holger Hermanns](https://depend.cs.uni-saarland.de/~hermanns/), [Lijun Zhang](https://tis.ios.ac.cn/people/lijun-zhang/)
-  
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
 
-  
-Talks
+Education
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+* Ph.D in "Adversarial Context in Deep Learning", under supervision of [Laurent Amsaleg](http://people.rennes.inria.fr/Laurent.Amsaleg/), [Yannis Avrithis](https://avrithis.net/) and [Teddy Furon](http://people.rennes.inria.fr/Teddy.Furon/website/Welcome.html) , [École Normale Supérieure de Rennes](http://www.ens-rennes.fr/), 2017-2021.
+* M.S. in Computer Science, under [ENS-ECNU PRoSFER Program](http://www.ens-rennes.fr/prosfer/programme-prosfer-east-china-normal-university-276624.kjsp), [East China Normal University](https://www.ecnu.edu.cn/), 2015-2017.
+* B.S. in Computer Science, [East China Normal University](https://www.ecnu.edu.cn/), 2011-2015.
+
 Service and leadership
 ======
 **Participation in conference organization**
@@ -65,3 +46,22 @@ Service and leadership
 Awards
 ======
 - “IEEE Distinguished Leadership Award” as Workshop Chair at the 2024 IEEE SmartWorld Congress including the multi-conferences on (UIC/ATC/DigitalTwin/Metaverse/PCDS/ScalCom-2024) held in Denarau Island, Fiji, December 02-07, 2024.
+  
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+Talks
+======
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+  
+Teaching
+======
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
