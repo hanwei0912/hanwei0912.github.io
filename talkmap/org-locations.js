@@ -1,18 +1,18 @@
 var addressPoints = [
   [
     "Saarbrücken, Germany",
-    49.1400,
-    7.0000
+    49.23178573,
+    7.01548668
   ],
   [
     "Rennes, France",
-    48.0653,
-    1.4046
+    48.114167,
+    -1.680833
   ],
   [
     "Chongqing, China",
-    29.3300,
-    106.3025
+    29.54726289,
+    106.51072819
   ],
   [
     "Guangzhou, China",
