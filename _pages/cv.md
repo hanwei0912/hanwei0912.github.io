@@ -48,13 +48,13 @@ Teaching
   
 Service and leadership
 ======
-*  Participation in conference organization
+**Participation in conference organization**
 - Invited to be the Workshop Chair and organize a workshop named as \href{https://www.ieee-smart-world.org/2024/atc/workshops.php}{“Bridging the Gap: Exploring Explainability in Autonomous and Trusted Computing"} for the 21st IEEE International Conference on Autonomous and Trusted Computing (ATC) 2024, Fiji
 - Embedded Systems Week, 2022, Hybrid-Shanghai
 - 27th ACM International Conference on Multimedia (ACM MM), 2019, Nice, France
 - 9th IEEE International Workshop on Information Forensics and Security (WIFS), 2017, Rennes, France
        
-*  Review papers for journals
+**Review papers for journals**
        
 - Transactions on Information Forensics \& Security (TIFS)
 - Computers \& Security
