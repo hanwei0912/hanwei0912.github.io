@@ -62,3 +62,6 @@ Service and leadership
 - Swarm and Evolutionary Computation
 - Complex \& Intelligent Systems
        
+Awards
+======
+- “IEEE Distinguished Leadership Award” as Workshop Chair at the 2024 IEEE SmartWorld Congress including the multi-conferences on (UIC/ATC/DigitalTwin/Metaverse/PCDS/ScalCom-2024) held in Denarau Island, Fiji, December 02-07, 2024.
