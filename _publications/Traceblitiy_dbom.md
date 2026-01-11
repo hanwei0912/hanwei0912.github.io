@@ -2,7 +2,7 @@
 title: "Traceability and accountability by construction"
 collection: publications
 permalink: /publication/Traceblitiy_dbom
-excerpt: 'This paper is about adversarial robustness on NeRF.'
+excerpt: 'This paper is about how to build an accountable and traceable AI system through cryptographic signatures.'
 date: 2024-10-26
 venue: 'International Symposium on Leveraging Applications of Formal Methods'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-031-75387-9_16'
