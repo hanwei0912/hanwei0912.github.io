@@ -10,6 +10,21 @@ var addressPoints = [
     2.351667
   ],
   [
+    "Singapore",
+    1.283333,
+    103.833333
+  ],
+  [
+    "Rhodes, Greece",
+    36.433333,
+    28.216667
+  ],
+  [
+    "Hanoi, Vietnam",
+    21,
+    105.85
+  ],
+  [
     "Saarbrücken, Germany",
     49.23178573,
     7.01548668
