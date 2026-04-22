@@ -48,5 +48,10 @@ var addressPoints = [
     "Tianjin, China",
     39.14773689,
     117.21189895
+  ],
+  [
+    "Shanghai, China",
+    31.231667,
+    121.469722
   ]
 ];
