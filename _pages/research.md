@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "Research Vision"
 permalink: /research/
 author_profile: true
