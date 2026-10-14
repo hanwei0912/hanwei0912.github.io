@@ -11,11 +11,14 @@ redirect_from:
 
 Work experience
 ======
-* Nov. 2023 - Now: Postdoctoral Research
+* Oct. 2026 - Now: Group Leader
+  *  [Saarland University](https://saarland-informatics-campus.de/en/)
+  *  Dependable AI Systems(DAIS) group
+* Nov. 2023 - Oct. 2026: Postdoctoral Researcher
   * [Saarland University](https://saarland-informatics-campus.de/en/), [Institute of Intelligent Software](http://www.gziis.org.cn/)
   * Topic: Trustworthy AI
   * Supervisors: [Holger Hermanns](https://depend.cs.uni-saarland.de/~hermanns/), [Lijun Zhang](https://tis.ios.ac.cn/people/lijun-zhang/)
-* Jul. 2021 - Jul. 2023: Postdoctoral Research
+* Jul. 2021 - Jul. 2023: Postdoctoral Researcher
   * [École Centrale de Marseille](https://www.centrale-marseille.fr/), [Aix-Marseille University](https://www.univ-amu.fr/en), [LIS](https://www.lis-lab.fr/)-[QARMA](https://qarma.lis-lab.fr/)
   * Topic: Interpretability of Deep Learning
   * Supervisors: [Ronan Sicre](https://pageperso.lis-lab.fr/~ronan.sicre/wordpress/), [Yannis Avrthis](https://avrithis.net/), [Stephane Ayache](https://stephane-ayache.pedaweb.univ-amu.fr/wordpress/)
