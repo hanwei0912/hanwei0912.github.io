@@ -1,6 +1,7 @@
 ---
+layout: archive
 title: "Dependable AI Systems (DAIS)"
-permalink: /dais/
+permalink: /_pages/dais.md
 author_profile: true
 ---
 
