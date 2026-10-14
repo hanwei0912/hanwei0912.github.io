@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! Welcome to my homepage.
 
-I am the leader of the Dependable AI Systems (DAIS) Group at the Chair of Dependable Systems and Software, [Saarland University](https://www.uni-saarland.de/en/home.html). 
+I am the leader of the [Dependable AI Systems (DAIS)](https://depend.cs.uni-saarland.de/~hzhang/) Group at the Chair of [Dependable Systems and Software](https://depend.cs.uni-saarland.de/), [Saarland University](https://www.uni-saarland.de/en/home.html). 
 
 My research focuses on building the scientific foundations of **dependable and trustworthy foundation models**. We investigate how AI systems can become interpretable, grounded, verifiable, and evidence-driven through semantic representations and reasoning mechanisms.
 
