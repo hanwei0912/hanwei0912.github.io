@@ -21,6 +21,9 @@ Building interpretable, grounded, evidence-based, and verifiable AI systems.
 - Semantic Representations
 - AI Verification
 
+## Current Member
+- Nazareno Garagiola
+
 ## Collaborations
 
 We actively seek collaboration with academia and industry.
