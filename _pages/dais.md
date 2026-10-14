@@ -22,7 +22,7 @@ Building interpretable, grounded, evidence-based, and verifiable AI systems.
 - AI Verification
 
 ## Current Member
-- Nazareno Garagiola (Ph.D)
+- Nazareno Garagiola
 
 ## Collaborations
 
